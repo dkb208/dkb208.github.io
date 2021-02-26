@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Physics (Major) | (Minor: Mathematics, Statistics), Tribhuvan University, 2006 - 2009
+* B.Sc. in Physics, (Minor: Mathematics, Statistics), Tribhuvan University, 2006 - 2009
 * M.Sc. in Physics, Tribhuvan University, 2011 - 2013
 * M.S. in Physics, Tribhuvan University, 2011 - 2013
 * Ph.D in Nuclear Physics, Mississippi State University, Aug 2015 - Jul 2021 (expected)

@@ -3,7 +3,7 @@ title: "Ruling out Color Transparency in Quasielastic ^{12}C(e,e'p) up to Q^2 of
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about my thesis research.'
-date: 2015-10-01
+date: 2021-02-23
 venue: 'Physical Review Letters'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Bhetuwal et. al. (2021). &quot;Paper Title Number 3.&quot; <i>Physical Review Letters</i>. 2021(082301).'

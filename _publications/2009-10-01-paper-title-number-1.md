@@ -1,15 +1,15 @@
 ---
-title: "Ruling out Color Transparency in Quasielastic  12C(e,e'p) up to Q2 of 14.2 (GeV/c)2"
+title: "Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e,e'p) up to Q&sup2; of 14.2 (GeV/c)&sup2;."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021-02-23
-venue: 'Journal 1'
+permalink: /publication/2015-10-01-paper-title-number-3
+excerpt: 'This paper is about my thesis research.'
+date: 2021-02-23.
+venue: 'Physical Review Letters'
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.082301'
-citation: 'Bhetuwal et. al. (2021). &quot;Ruling out Color Transparency in Quasielastic  12C(e,e'p) up to Q2 of 14.2 (GeV/c)2.&quot; <i>Physical Review Letters</i>. 126(8).'
+citation: 'Bhetuwal et. al. (2021). &quot;Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e&comma; e&acute;p) up to Q&sup2; of 14.2 (GeV/c)&sup2;.&quot; <i>Physical Review Letters</i>. 2021(082301).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about my Thesis research on proton's color transparency at Jefferson lab, Hall C.
 
 [Download paper here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.082301)
 
-Recommended citation: Bhetuwal et. al. (2021). "Ruling out Color Transparency in Quasielastic 12C(e,e'p) up to Q2 of 14.2 (GeV/c)2." <i>Physical Review Letters</i>. 126(8).
+Recommended citation: Bhetuwal et. al. (2021). &quot;Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e&comma; e&acute;p) up to Q&sup2; of 14.2 (GeV/c)&sup2;.&quot; <i>Physical Review Letters</i>. 126(082301).

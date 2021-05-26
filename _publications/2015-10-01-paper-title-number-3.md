@@ -2,10 +2,10 @@
 title: "Ruling out Color Transparency in Quasielastic  ^{12}C(e,e'p) up to Q^2 of 14.2 (GeV/c)^2"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+excerpt: 'This paper is about my Thesis research on proton's color transparency.'
+date: 2021-02-23
 venue: 'Physical Review Letters'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.082301'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 This paper is about my Thesis research on proton's color transparency.

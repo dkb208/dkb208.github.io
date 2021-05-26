@@ -1,5 +1,5 @@
 ---
-title: &quot;Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e&comma; e&acute;p) up to Q&sup2; of 14.2 (GeV/c)&sup2;.&quot;
+title: "Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e&comma; e&acute;p) up to Q&sup2; of 14.2 (GeV/c)&sup2;."
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about my thesis research.'

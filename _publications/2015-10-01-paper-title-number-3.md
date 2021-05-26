@@ -6,7 +6,7 @@ excerpt: 'This paper is about my Thesis research on proton's color transparency.
 date: 2015-10-01
 venue: 'Physical Review Letters'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Physical Review Letters</i>. 2021(082301).'
+citation: 'Bhetuwal, Deepak. (2021). &quot;Paper Title Number 3.&quot; <i>Physical Review Letters</i>. 2021(082301).'
 ---
 This paper is about my Thesis research on proton's color transparency.
 

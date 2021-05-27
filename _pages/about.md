@@ -9,7 +9,7 @@ I can be contactd at
 
 123 Mainroad St
 Seattle, Washington
-12345=1234
+12345-1234
 
 References
 ======

@@ -1,12 +1,5 @@
----
-permalink: /
-title: "Research interests"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+Research interests
+======
 
 My research interest includes Hadronic Physics, Final State Interactions.
 

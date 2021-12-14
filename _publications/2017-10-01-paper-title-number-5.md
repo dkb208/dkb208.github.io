@@ -1,15 +1,14 @@
 ---
-title: "Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e,e'p) up to Q&sup2; of 14.2 (GeV/c)&sup2;."
+title: "Probing few-body nuclear dynamics via &sup3;H and &sup3;He(e, e′p)pn cross-section measurements."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about my thesis research.'
-date: 2021-02-23.
+permalink: /publication/2015-10-01-paper-title-number-5
+excerpt: ''
+date: 2020-05-26.
 venue: 'Physical Review Letters'
-paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.082301'
-citation: 'Bhetuwal et. al. (2021). &quot;Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e&comma; e&acute;p) up to Q&sup2; of 14.2 (GeV/c)&sup2;.&quot; <i>Physical Review Letters</i>. 2021(082301).'
+paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.212501'
+citation: 'R. Cruz-Torreset al. (2020). &quot;Probing few-body nuclear dynamics via &sup3;H and &sup3;He(e&comma; e&acute;p)pn cross-section measurements.&quot;  <i>Physical Review Letters</i>. 124(212501).'
 ---
-This paper is about my Thesis research on proton's color transparency at Jefferson lab, Hall C.
 
-[Download paper here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.082301)
+[Download paper here](https://arxiv.org/pdf/2001.07230.pdf)
 
-Recommended citation: Bhetuwal et. al. (2021). &quot;Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e&comma; e&acute;p) up to Q&sup2; of 14.2 (GeV/c)&sup2;.&quot; <i>Physical Review Letters</i>. 126(082301).
+Recommended citation: R. Cruz-Torreset al. (2020). &quot;Probing few-body nuclear dynamics via &sup3;H and &sup3;He(e&comma; e&acute;p)pn cross-section measurements.&quot;  <i>Physical Review Letters</i>. 124(212501).

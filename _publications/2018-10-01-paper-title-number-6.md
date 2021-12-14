@@ -1,15 +1,14 @@
 ---
-title: "Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e,e'p) up to Q&sup2; of 14.2 (GeV/c)&sup2;."
+title: "Comparing proton momentum distributions in A = 2 and 3 nuclei via &sup2;H &sup3;H and &sup3;He (e,e′p) measurements."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about my thesis research.'
+permalink: /publication/2015-10-01-paper-title-number-6
+excerpt: ''
 date: 2021-02-23.
-venue: 'Physical Review Letters'
-paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.082301'
-citation: 'Bhetuwal et. al. (2021). &quot;Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e&comma; e&acute;p) up to Q&sup2; of 14.2 (GeV/c)&sup2;.&quot; <i>Physical Review Letters</i>. 2021(082301).'
+venue: 'Physics Letter B'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0370269319306045'
+citation: 'R.Cruz-Torreset al. (2019). &quot;Comparing proton momentum distributions in A = 2 and 3 nuclei via &sup2;H &sup3;H and &sup3;He(e&comma; e&acute;p) measurements.&quot;  <i>Physics Letter B</i>. 797(134890).'
 ---
-This paper is about my Thesis research on proton's color transparency at Jefferson lab, Hall C.
 
-[Download paper here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.082301)
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0370269319306045)
 
-Recommended citation: Bhetuwal et. al. (2021). &quot;Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e&comma; e&acute;p) up to Q&sup2; of 14.2 (GeV/c)&sup2;.&quot; <i>Physical Review Letters</i>. 126(082301).
+Recommended citation: R.Cruz-Torreset al. (2019). &quot;Comparing proton momentum distributions in A = 2 and 3 nuclei via &sup2;H &sup3;H and &sup3;He(e&comma; e&acute;p) measurements.&quot;  <i>Physics Letter B</i>. 797(134890).

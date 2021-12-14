@@ -1,15 +1,14 @@
 ---
-title: "Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e,e'p) up to Q&sup2; of 14.2 (GeV/c)&sup2;."
-collection: publications
+title: "Accurate Determination of the Neutron Skin Thickness of &sup2;&sup0;&sup8;Pb through Parity-Violation in Electron Scattering."
+collection: publications&quot;
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about my thesis research.'
-date: 2021-02-23.
+excerpt: ''
+date: 2021-04-27.
 venue: 'Physical Review Letters'
-paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.082301'
-citation: 'Bhetuwal et. al. (2021). &quot;Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e&comma; e&acute;p) up to Q&sup2; of 14.2 (GeV/c)&sup2;.&quot; <i>Physical Review Letters</i>. 2021(082301).'
+paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.172502'
+citation: 'D. Adhikari et al. (PREX Collaboration) (2021). &quot;Accurate Determination of the Neutron Skin Thickness of &sup2;&sup0;&sup8;Pb through Parity-Violation in Electron Scattering.&quot; <i>Physical Review Letters</i>. 126(172502).'
 ---
-This paper is about my Thesis research on proton's color transparency at Jefferson lab, Hall C.
 
-[Download paper here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.082301)
+[Download paper here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.172502)
 
-Recommended citation: Bhetuwal et. al. (2021). &quot;Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e&comma; e&acute;p) up to Q&sup2; of 14.2 (GeV/c)&sup2;.&quot; <i>Physical Review Letters</i>. 126(082301).
+Recommended citation: D. Adhikari et al. (PREX Collaboration) (2021). &quot;Accurate Determination of the Neutron Skin Thickness of &sup2;&sup0;&sup8;Pb through Parity-Violation in Electron Scattering.&quot; <i>Physical Review Letters</i>. 126(172502).

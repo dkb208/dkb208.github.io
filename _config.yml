@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Deepak Bhetuwal"
   avatar           : "profile.png"
-  bio              : "Graduate Research Assistant, Nuclear Physics, Particle Physics, Accelerator Physics"
-  location         : "Location"
+  bio              : "Particle / Accelerator Physicsist"
+  location         : "Newport News, VA"
   employer         : "Mississippi State University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZTM7ZUkAAAAJ&hl=en"
-  email            : "deepak@infonap.org"
+  email            : "deepak.bhetuwal.2005@gmail.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : #"http://orcid.org/0000-0002-1006-9744"
+  linkedin         :"https://www.linkedin.com/in/loonlover2000/"
+  #orcid            : #"http://orcid.org/0000-0002-1006-9744"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  #twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :

@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &loonlover2000
+  #username               : &loonlover2000
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Deepak Bhetuwal"
   avatar           : "profile.png"
   bio              : "Particle / Accelerator Physicsist"
-  location         : "Virginia/USA"
+  location         : ""
   employer         : "Mississippi State University"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZTM7ZUkAAAAJ&hl=en"

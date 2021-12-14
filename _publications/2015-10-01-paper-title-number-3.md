@@ -1,5 +1,5 @@
 ---
-title: "Accurate Determination of the Neutron Skin Thickness of &sup2;&sup0;&sup8;Pb through Parity-Violation in Electron Scattering."
+title: "Accurate Determination of the Neutron Skin Thickness of &sup2;&sup0;&sup8;P through Parity-Violation in Electron Scattering."
 collection: publications&quot;
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''

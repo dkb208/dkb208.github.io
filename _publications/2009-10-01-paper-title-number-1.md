@@ -2,7 +2,7 @@
 title: "Ruling out Color Transparency in Quasielastic &sup1;&sup2;C(e,e'p) up to Q&sup2; of 14.2 (GeV/c)&sup2;."
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-1
-excerpt: 'This paper is about my PhD dissertation research on proton's color transparency at Jefferson lab, Hall C.'
+excerpt: 'This paper is about my PhD dissertation research.'
 date: 2021-02-23.
 venue: 'Physical Review Letters'
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.082301'

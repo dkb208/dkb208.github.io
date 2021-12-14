@@ -6,9 +6,9 @@ excerpt: ''
 date: 2021-04-27.
 venue: 'Physical Review Letters'
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.172502'
-citation: 'D. Adhikari et al. (PREX Collaboration) (2021). &quot;Accurate Determination of the Neutron Skin Thickness of &sup2;&sup0;&sup8;Pb through Parity-Violation in Electron Scattering.&quot; <i>Physical Review Letters</i>. 126(172502).'
+citation: 'D. Adhikari et al. (PREX Collaboration) (2021). &quot;Accurate Determination of the Neutron Skin Thickness of &sup2;&sup0;&sup8;P through Parity-Violation in Electron Scattering.&quot; <i>Physical Review Letters</i>. 126(172502).'
 ---
 
 [Download paper here](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.172502)
 
-Recommended citation: D. Adhikari et al. (PREX Collaboration) (2021). &quot;Accurate Determination of the Neutron Skin Thickness of &sup2;&sup0;&sup8;Pb through Parity-Violation in Electron Scattering.&quot; <i>Physical Review Letters</i>. 126(172502).
+Recommended citation: D. Adhikari et al. (PREX Collaboration) (2021). &quot;Accurate Determination of the Neutron Skin Thickness of &sup2;&sup0;&sup8;P through Parity-Violation in Electron Scattering.&quot; <i>Physical Review Letters</i>. 126(172502).

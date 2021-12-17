@@ -2,7 +2,7 @@
 title: "Graduate Research Assistant"
 collection: teaching
 type: "Research Assistant"
-permalink: /teaching/2014-spring-teaching-2
+permalink: /teaching/2015-spring-teaching-2
 venue: "Mississippi State University / Thomas Jefferson National Accelerator Facility (Jefferson Lab)"
 date: 2015-08-17 -- 2021-12-30
 location: "MS State, MS / Newport News, VA"

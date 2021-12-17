@@ -7,10 +7,10 @@ main:
     url: /talks/    
 
   - title: "Experience"
-    url: /teaching/    
+    url: /experience/    
     
   - title: "Awards"
-    url: /portfolio/
+    url: /awards/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/

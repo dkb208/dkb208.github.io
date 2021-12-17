@@ -1,6 +1,6 @@
 ---
-title: 
-excerpt: 
+title: ""
+excerpt: ""
 collection: portfolio
 ---
 

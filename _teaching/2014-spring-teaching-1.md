@@ -1,6 +1,6 @@
 ---
 title: "Graduate Teaching Assistant"
-collection: teaching
+collection: 
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Mississippi State University, Department of Physics and Astronomy, MS State, MS"

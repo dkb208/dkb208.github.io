@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: ""
+excerpt: "Awards"
 collection: portfolio
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+* Robert Lee Cook Excellence in Graduate Research Award, Aug 2020, Department of Physics and Astronomy, Mississippi State University.
+* Local support during Strangeness Nuclear Physics (SNP) School, Sendai, Japan, Sep 2019.
+* International Travel Award to attend Strangeness Nuclear Physics (SNP) school at Tohoku University, Sendai, Japan, Jefferson Science Associates (JSA), Sep 2019.
+* Local support during Hampton University Graduate Students (HUGS) Summer School, May 2017.

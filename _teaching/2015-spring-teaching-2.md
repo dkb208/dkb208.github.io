@@ -1,6 +1,6 @@
 ---
 title: "Graduate Research Assistant"
-collection: teaching
+collection: 
 type: "Research Assistant"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Mississippi State University / Thomas Jefferson National Accelerator Facility (Jefferson Lab)"

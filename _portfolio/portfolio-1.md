@@ -1,7 +1,7 @@
 ---
 title:
 excerpt: 
-collection:
+collection: portfolio
 ---
 
 * Robert Lee Cook Excellence in Graduate Research Award, Aug 2020, Department of Physics and Astronomy, Mississippi State University.

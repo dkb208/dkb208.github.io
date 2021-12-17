@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Physics, (Minor: Mathematics, Statistics), Tribhuvan University, 2006 - 2009
+* B.Sc. in Physics, (Minor: Mathematics, Statistics), Tribhuvan University, 2007 - 2010
 * M.Sc. in Physics, Tribhuvan University, 2011 - 2013
-* M.S. in Physics, Tribhuvan University, 2011 - 2013
-* Ph.D in Nuclear Physics, Mississippi State University, Aug 2015 - Jul 2021 (expected)
+* M.S. in Physics, Mississippi State University, Aug 2015 - Oct 2018
+* Ph.D in Nuclear Physics, Mississippi State University, Aug 2015 - Dec 2021
 
 Work experience
 ======
@@ -28,7 +28,16 @@ Work experience
   * Duties included: Analysing "E1206107 Color Transparency Experiment data"
   * Supervisor: Professor Dipangkar Dutta
     
-Skills
+Professional Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Personal Skills
 ======
 * Skill 1
 * Skill 2
@@ -49,7 +58,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -58,3 +67,12 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Language
+======
+* Skill 1
+
+Hobby
+======
+* Skill 1
+

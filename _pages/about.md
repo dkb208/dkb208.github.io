@@ -1,19 +1,5 @@
-Research interests
-======
+Hello World!
 
-My research interest includes Hadronic Physics, Final State Interactions.
+Welcome to my page.
 
-Contact details
-======
-I can be contactd at 
-
-123 Mainroad St
-Seattle, Washington
-12345-1234
-
-References
-======
-1. 
-1. 
-1. 
-1. 
+Let's get connected.

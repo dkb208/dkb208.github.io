@@ -4,7 +4,7 @@ collection: teaching
 type: "Coordinator"
 permalink: /teaching/teaching-4
 venue: "Mississippi State University"
-date: Spring 2017 -- 
+date: 2017-01-09 -- 2017-05-30
 location: "MS State, MS"
 ---
 * Coordinated and organized 2nd annual "University of Mississippi - Mississippi State University (UM-MSU)" inter university level Physics Research Symposium.

@@ -42,8 +42,7 @@ Skills
 
 Publications
 ======
-* For the complete list of all the peer-reviewed journal papers and conference proceedings, please refer to:
- <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+For the complete list of all the peer-reviewed journal papers and conference proceedings, please refer to: <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -51,7 +50,7 @@ Publications
   
 Talks
 ======
-* A total of 3 international and 14 national presentations (Oral/Poster) during during graduate study program (Aug 2015 - Dec 2021), out of which 4 poster presentations and 13 oral presentations.
+A total of 3 international and 14 national presentations (Oral/Poster) during during graduate study program (Aug 2015 - Dec 2021), out of which 4 poster presentations and 13 oral presentations.
  
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}

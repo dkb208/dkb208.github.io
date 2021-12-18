@@ -2,7 +2,7 @@
 title: "Graduate Teaching Assistant"
 collection: 
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/teaching-1
 venue: "Mississippi State University, Department of Physics and Astronomy, MS State, MS"
 date: 2020-08-15 -- 2020-12-15
 location: "MS State, MS"

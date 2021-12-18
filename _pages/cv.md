@@ -50,6 +50,19 @@ Experience
     * Analyzed Jefferson Lab E1206107 experimental data using Python and C++ based ROOT.
     * Calibration of multiple particle detectors Jefferson Labs’ accelerator facility such as Drift Chambers for tracking of particles tracking, Calorimeter and Cherenkovs for particle identification, and Hodoscopes for particles timing.
     * Determination of particle identification detector efficiencies, optimization and study of spectrometer optics.
+ 
+* Journal Club Coordinator
+  * Coordinator, Mississippi State University, 2016
+    * Coordinated and organized research topics seminars on every Fridays from different studetns and professors from the department.
+
+* Coordinator of inter university Symposium
+  * Coordinator, Mississippi State University, 2017
+    * Coordinated and organized 2nd annual “University of Mississippi - Mississippi State University (UM-MSU)” inter university level Physics Research Symposium.
+
+* Graduate Teaching Assistant
+  * Undergraduate course, Mississippi State University, Department of Physics and Astronomy, MS State, MS, 2020
+    * Teaching Assistant for 3 physics labs for a semester: Teaching Assistant for introductory physics courses for undergraduate students in Physics, Engineering, and Natural Science.
+    * Responsibilities include teaching laboratory techniques as applied to “General Physics”.
   
 Professional Membership
 ======

@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 {% if author.googlescholar %}
  For the complete list of all the peer-reviewed journal papers and conference proceedings, please refer to:
  <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>

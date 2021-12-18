@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Award"
+title: ""
 permalink: /award/
 author_profile: true
 redirect_from:
@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Award
 ======
-* B.Sc. in Physics, (Minor: Mathematics, Statistics), Tribhuvan University, 2007 - 2010
-* M.Sc. in Physics, Tribhuvan University, 2011 - 2013
-* M.S. in Physics, Mississippi State University, Aug 2015 - Oct 2018
-* Ph.D in Nuclear Physics, Mississippi State University, Aug 2015 - Dec 2021
+* Robert Lee Cook Excellence in Graduate Research Award, Department of Physics and Astronomy, Mississippi State University, Aug 2020.
+* Local support during the "Strangeness Nuclear Physics (SNP)" School in Tohoku University, Sendai, Japan, Sep 2019.
+* "Jefferson Science Associates (JSA)" International Travel Award to attend "Strangeness Nuclear Physics (SNP)" School at Tohoku University, Sendai, Japan, Sep 2019.
+* Local support during "Hampton University Graduate Students (HUGS)" Summer School, May 2017.

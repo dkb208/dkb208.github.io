@@ -4,7 +4,7 @@ collection: teaching
 type: "Coordinator"
 permalink: /teaching/teaching-3
 venue: "Mississippi State University"
-date: 2016-08-17
+date: 2016-08-10
 location: "MS State, MS"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Journal Club Coordinator"
-collection: 
+collection: teaching
 type: "Coordinator"
 permalink: /teaching/teaching-3
 venue: "Mississippi State University"

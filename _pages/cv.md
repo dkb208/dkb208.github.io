@@ -63,6 +63,13 @@ Experience
   * Undergraduate course, Mississippi State University, Department of Physics and Astronomy, MS State, MS, 2020
     * Teaching Assistant for 3 physics labs for a semester: Teaching Assistant for introductory physics courses for undergraduate students in Physics, Engineering, and Natural Science.
     * Responsibilities include teaching laboratory techniques as applied to “General Physics”.
+
+Award
+======
+* Robert Lee Cook Excellence in Graduate Research Award, Department of Physics and Astronomy, Mississippi State University, Aug 2020.
+* Local support during the "Strangeness Nuclear Physics (SNP)" School in Tohoku University, Sendai, Japan, Sep 2019.
+* "Jefferson Science Associates (JSA)" International Travel Award to attend "Strangeness Nuclear Physics (SNP)" School at Tohoku University, Sendai, Japan, Sep 2019.
+* Local support during "Hampton University Graduate Students (HUGS)" Summer School, May 2017.
   
 Professional Membership
 ======

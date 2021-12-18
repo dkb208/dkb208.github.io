@@ -40,14 +40,16 @@ Publications
   
 Talks
 ======
-* A total of 3 international and 14 national presentations (Oral/Poster) during during graduate study program (Aug 2015 - Dec 2021), out of which 4 poster presentations and 13 oral presentations.
+* A total of 3 international and 14 national presentations (Oral/Poster) during graduate study program (Aug 2015 - Dec 2021), out of which 4 poster presentations and 13 oral presentations.
 * For the complete list of talks and presentations, please refer to: <u><a href="{{https://dkb208.github.io/talks/}}">Talks and Presentations</a>.</u>
   
 Experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Graduate Research Assistant
+  * Research Assistant, Mississippi State University / Thomas Jefferson National Accelerator Facility (Jefferson Lab), 2015
+    * Analyzed Jefferson Lab E1206107 experimental data using Python and C++ based ROOT.
+    * Calibration of multiple particle detectors Jefferson Labs’ accelerator facility such as Drift Chambers for tracking of particles tracking, Calorimeter and Cherenkovs for particle identification, and Hodoscopes for particles timing.
+    * Determination of particle identification detector efficiencies, optimization and study of spectrometer optics.
   
 Professional Membership
 ======

@@ -2,7 +2,7 @@
 title: "Coordinator"
 collection: 
 type: "Coordinator of inter university Symposium"
-permalink: /teaching/teaching_4
+permalink: /teaching/teaching-4
 venue: "Mississippi State University"
 date: Spring 2017
 location: "MS State, MS"

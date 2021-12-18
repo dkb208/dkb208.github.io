@@ -14,7 +14,12 @@ Education
 * B.Sc. in Physics, (Minor: Mathematics, Statistics), Tribhuvan University, 2007 - 2010
 * M.Sc. in Physics, Tribhuvan University, 2011 - 2013
 * M.S. in Physics, Mississippi State University, Aug 2015 - Oct 2018
+  * Worked with Monte Carlo simulations and verified the kinematics for the Jefferson Lab E1206107 experiment along with the hardware work in Hall C detector system such as hodoscope scintillators and Large Angle Calorimeter detector.
+  * Supervisor: Professor Dipangkar Dutta
 * Ph.D in Particle Physics, Mississippi State University, Aug 2015 - Dec 2021
+  * Dissertation Title: "The Search for Color Transparency in Proton at 12 GeV."
+  * Analyzed the Jefferson Lab E1206107 experimental data using C++, Python and Monte Carlo Simulations and extracted striking result for Color Transparency phenomenon in hadrons with the highest energy range reached to the date. Result published in a very well-renowned journal, "Physical Review Letters".
+  * Supervisor: Professor Dipangkar Dutta
 
 Work experience
 ======
@@ -42,7 +47,7 @@ Skills
 
 Publications
 ======
-For the complete list of all the peer-reviewed journal papers and conference proceedings, please refer to: <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+For the complete list of all the peer-reviewed journal papers and conference proceedings, please refer to: <u><a href="{{author.googlescholar}}">Google Scholar profile</a>.</u>
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -61,6 +66,13 @@ Experience
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Professional Membership
+======
+* American Physical Society (APS)
+* Nepalese Physical Society (NPS)
+* Association of Nepali Physicists in America (ANPA)
+* National Academy of Physics (NAP), Nepal
   
 Service and leadership
 ======
@@ -84,10 +96,3 @@ Hobby
 * Books
 * Travelling
 * Hiking
-
-Professional Membership
-======
-* American Physical Society (APS)
-* Nepalese Physical Society (NPS)
-* Association of Nepali Physicists in America (ANPA)
-* National Academy of Physics (NAP), Nepal

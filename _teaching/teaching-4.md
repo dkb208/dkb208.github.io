@@ -3,7 +3,7 @@ title: "Coordinator of inter university Symposium"
 collection: teaching
 type: "Coordinator"
 permalink: /teaching/teaching-4
-venue: "Mississippi State University"
+venue: "UM-MSU Symposium"
 date: 2017-03-09
 location: "MS State, MS"
 ---

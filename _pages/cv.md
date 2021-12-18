@@ -20,18 +20,6 @@ Education
   * Dissertation Title: "The Search for Color Transparency in Proton at 12 GeV."
   * Analyzed the Jefferson Lab E1206107 experimental data using C++, Python and Monte Carlo Simulations and extracted striking result for Color Transparency phenomenon in hadrons with the highest energy range reached to the date. Result published in a very well-renowned journal, "Physical Review Letters".
   * Supervisor: Professor Dipangkar Dutta
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Aug 2015 - Current: Graduate Research Assistant
-  * Mississippi State University
-  * Duties included: Analysing "E1206107 Color Transparency Experiment data"
-  * Supervisor: Professor Dipangkar Dutta
     
 Skills
 ======

@@ -81,10 +81,10 @@ Professional Membership
 Service and leadership
 ======
 * Worked as Founder and President in "National Acadmy of Physics (NAP)", Nepal (2012-2015).
-* Worked as Chief Editor in "Science Info", a national monthly science magazine targettted for middle school students, in Kathmandu, Nepal (2013-2015).
+* Worked as Chief Editor in "Science Info", a national monthly science magazine targetted for middle school students, in Kathmandu, Nepal (2013-2015).
 * Organized national level seminars on various Physics topics for the college students from national and international speakers through NAP, Nepal (2012-2015).
 * Authored various college and university level Physics refresher books in Nepal.
-* Organized and conducted 1 month long relief activities in co-ordination with various organizations and individuals during the Earthquake catastroph in May 2015 in Nepal.
+* Organized and conducted 1 month long relief activities in co-ordination with various organizations and individuals during the Earthquake catastrophe in May 2015 in Nepal.
 
 Language
 ======
@@ -97,6 +97,6 @@ Hobby
 * Badminton
 * Soccer
 * Music
-* Books
+* Reading
 * Travelling
 * Hiking

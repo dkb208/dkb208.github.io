@@ -53,7 +53,7 @@ Experience
  
 * Journal Club Coordinator
   * Coordinator, Mississippi State University, 2016
-    * Coordinated and organized research topics seminars on every Fridays from different studetns and professors from the department.
+    * Coordinated and organized research topics seminars on every Fridays from different students and professors from the department.
 
 * Coordinator of inter university Symposium
   * Coordinator, Mississippi State University, 2017

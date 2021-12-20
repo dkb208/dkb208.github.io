@@ -35,13 +35,13 @@ Skills
 
 Publications
 ======
-* For the complete list of all the peer-reviewed journal papers and conference proceedings, please refer to: <u><a href="{{https://scholar.google.com/citations?user=ZTM7ZUkAAAAJ&hl=en}}">Google Scholar</a>.</u>
-* For the journal papers, please refer to: <u><a href="{{https://dkb208.github.io/publications/}}">Publication</a>.</u>
+* For the complete list of all the peer-reviewed journal papers and conference proceedings, please refer to: [Google Scholar Page](https://scholar.google.com/citations?user=ZTM7ZUkAAAAJ&hl=en "GoogleScholar")
+* For the journal papers, please refer to: [Publications](https://dkb208.github.io/publications/ "Publication")
   
 Talks
 ======
 * A total of 3 international and 14 national presentations (Oral/Poster) during graduate study program (Aug 2015 - Dec 2021), out of which 4 poster presentations and 13 oral presentations.
-* For the complete list of talks and presentations, please refer to: [Google Scholar Page](https://scholar.google.com/citations?user=ZTM7ZUkAAAAJ&hl=en "GoogleScholar")
+* For the complete list of talks and presentations, please refer to: [Talks and Presentations](https://dkb208.github.io/talks/ "Talk")
 
 Experience
 ======

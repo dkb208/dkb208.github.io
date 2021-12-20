@@ -35,7 +35,7 @@ Skills
 
 Publications
 ======
-* For the complete list of all the peer-reviewed journal papers and conference proceedings, please refer to: <u><a href="{{author.googlescholar}}">Google Scholar Page</a>.</u>
+* For the complete list of all the peer-reviewed journal papers and conference proceedings, please refer to: <u><a href="{{https://scholar.google.com/citations?user=ZTM7ZUkAAAAJ&hl=en}}">Google Scholar Page</a>.</u>
 * For the journal papers, please refer to: <u><a href="{{https://dkb208.github.io/publications/}}">Journal Papers</a>.</u>
   
 Talks

@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Talk"
     url: /talks/    
 
   - title: "Experience"
@@ -13,7 +13,7 @@ main:
     url: /award/  
 #    url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
     
   - title: "CV"

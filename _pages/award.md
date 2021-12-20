@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Award
+Awards
 ======
 * Robert Lee Cook Excellence in Graduate Research Award, Department of Physics and Astronomy, Mississippi State University, Aug 2020.
 * Local support during the "Strangeness Nuclear Physics (SNP)" School in Tohoku University, Sendai, Japan, Sep 2019.

@@ -25,5 +25,5 @@ I am a curious, innovative, and result-oriented experimental particle physicist 
 ---
 
 ---
-<br/><img src='/images/grad3.JPG'>
+<br/><img src='/images/grad3.jpg'>
 ---

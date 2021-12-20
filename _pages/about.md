@@ -17,13 +17,9 @@ I am a curious, innovative, and result-oriented experimental particle physicist 
 ====
 
 ---
-title: " "
 excerpt: "<br/><img src='/images/500x300.png'>"
-collection: 
 ---
 
 ---
-title: " "
 excerpt: "<br/><img src='/images/500x300.png'>"
-collection: 
 ---

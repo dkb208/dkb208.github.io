@@ -40,7 +40,7 @@ Publications
   
 Talks
 ======
-* A total of 3 international and 14 national presentations (Oral/Poster) during graduate study program (Aug 2015 - Dec 2021), out of which 4 poster presentations and 13 oral presentations.
+* A total of 3 international and 14 national presentations (Oral/Poster) during graduate study program (Aug 2015 - Dec 2021), out of which 4 are poster presentations and 13 are oral presentations.
 * For the complete list of talks and presentations, please refer to: [Talks and Presentations](https://dkb208.github.io/talks/ "Talk")
 
 Experience

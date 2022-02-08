@@ -20,7 +20,11 @@ Education
   * Dissertation Title: "The Search for Color Transparency in Proton at 12 GeV."
   * Analyzed the Jefferson Lab E1206107 experimental data using C++, Python and Monte Carlo Simulations and extracted striking result for Color Transparency phenomenon in hadrons with the highest energy range reached to the date. Result published in a very well-renowned journal, "Physical Review Letters".
   * Supervisor: Professor Dipangkar Dutta
-    
+
+Visa Status
+======
+Permanent Resident of the United States of America.
+
 Skills
 ======
 * Professional Skills

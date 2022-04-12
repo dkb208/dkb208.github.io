@@ -1,5 +1,5 @@
 ---
-title: "Measurement of the Nucleon $F_{2}^{n}/F_{2}^{p}$ Structure Function Ratio by the Jefferson Lab MARATHON Tritium/Helium-3 Deep Inelastic Scattering Experiment"
+title: "Measurement of the Nucleon F&sup2;&subn;/F&sup2;&subp; Structure Function Ratio by the Jefferson Lab MARATHON Tritium/Helium-3 Deep Inelastic Scattering Experiment"
 collection: publications
 permalink: /publication/2018-10-01-paper-title-number-8
 excerpt: ''
